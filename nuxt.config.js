@@ -14,17 +14,17 @@ export default {
       {
         hid: "description",
         name: "description",
-        content: process.env.npm_package_description || ""
-      }
+        content: process.env.npm_package_description || "",
+      },
     ],
     link: [
       { rel: "icon", type: "image/x-icon", href: "/favicon.ico" },
       {
         rel: "stylesheet",
         href:
-          "https://fonts.googleapis.com/css?family=Roboto|Roboto+Mono:100,100i,300,300i,400,400i,500,500i,700,700i|Material+Icons"
-      }
-    ]
+          "https://fonts.googleapis.com/css?family=Roboto|Roboto+Mono:100,100i,300,300i,400,400i,500,500i,700,700i|Material+Icons",
+      },
+    ],
   },
   /*
    ** Customize the progress-bar color
@@ -50,15 +50,15 @@ export default {
         imports: [
           {
             set: "@fortawesome/free-solid-svg-icons",
-            icons: ["fas"]
+            icons: ["fas"],
           },
           {
             set: "@fortawesome/free-brands-svg-icons",
-            icons: ["fab"]
-          }
-        ]
-      }
-    ]
+            icons: ["fab"],
+          },
+        ],
+      },
+    ],
   ],
   /*
    ** vuetify module configuration
@@ -67,8 +67,8 @@ export default {
 
   webfontloader: {
     google: {
-      families: ["Roboto:100,100i,300,300i,400,400i,500,500i,700,700i"]
-    }
+      families: ["Roboto:100,100i,300,300i,400,400i,500,500i,700,700i"],
+    },
   },
 
   vuetify: {
@@ -79,11 +79,11 @@ export default {
       info: colors.teal.lighten1,
       warning: colors.amber.base,
       error: colors.deepOrange.accent4,
-      success: colors.green.accent3
-    }
+      success: colors.green.accent3,
+    },
   },
   generate: {
-    subFolders: false
+    subFolders: false,
   },
   /*
    ** Build configuration
@@ -92,10 +92,10 @@ export default {
     /*
      ** You can extend webpack config here
      */
-    extend(config, ctx) {}
-  }
-  target: 'static',
-  router: {
-    base: '/mtahlaos/'
-  }
+    extend(config, ctx) {},
+  },
+  // target: "static",
+  // router: {
+  //   base: "/mtahlaos/",
+  // },
 };

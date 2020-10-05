@@ -6,15 +6,15 @@
       <span></span>
       <span></span>
       <ul id="menu">
-        <a href="https://animated-garbanzo.a2hosted.com/MT/index.html">
+        <nuxt-link to="/">
           <li>Home</li>
-        </a>
-        <a href="https://animated-garbanzo.a2hosted.com/MT/about.html">
+        </nuxt-link>
+        <nuxt-link to="/about">
           <li>About</li>
-        </a>
-        <a href="https://animated-garbanzo.a2hosted.com/MT/gallery.html">
+        </nuxt-link>
+        <nuxt-link to="/gallery">
           <li>Gallery</li>
-        </a>
+        </nuxt-link>
         <li>
           <v-btn
             href="http://fb.me/mosaiquetahlaos"
@@ -38,7 +38,15 @@
           >
             <font-awesome-icon :icon="['fas', 'at']" />
           </v-btn>
-          <v-btn href="tel:+33490751171" target="_blank" class="mx-2" fab dark small color="white">
+          <v-btn
+            href="tel:+33490751171"
+            target="_blank"
+            class="mx-2"
+            fab
+            dark
+            small
+            color="white"
+          >
             <font-awesome-icon :icon="['fas', 'phone']" />
           </v-btn>
         </li>
@@ -46,7 +54,10 @@
     </div>
     <div class="navigation--logo">
       <a href="https://animated-garbanzo.a2hosted.com/MT/index.html">
-        <img src="https://animated-garbanzo.a2hosted.com/MT/assets/small-logo-black.png" alt="logo" />
+        <img
+          src="https://animated-garbanzo.a2hosted.com/MT/assets/small-logo-black.png"
+          alt="logo"
+        />
       </a>
     </div>
   </nav>

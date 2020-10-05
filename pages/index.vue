@@ -13,7 +13,11 @@
                 />
               </div>
               <div class="box--text">
-                <p>Jean Pierre Soalhat creates a link between our past and our present, personified in his creations that carry on the craft of antiquity.</p>
+                <p>
+                  Jean Pierre Soalhat creates a link between our past and our
+                  present, personified in his creations that carry on the craft
+                  of antiquity.
+                </p>
               </div>
               <div class="box--link">
                 <div class="box--arrow">
@@ -28,9 +32,7 @@
                       viewBox="0 0 448 512"
                       class="svg-inline--fa fa-chevron-down fa-w-14"
                       data-v-2a183b29
-                      style="
-    font-size: 3rem;
-"
+                      style="font-size: 3rem"
                     >
                       <path
                         fill="currentColor"
@@ -59,10 +61,15 @@
                   </h1>
                 </div>
                 <div class="box--text">
-                  <p>The same materials, the same love, the same simplicity, these marks added after centuries or thousand of years revive the object, transform it, continue it, and begin its new life.</p>
-                  <a href="https://animated-garbanzo.a2hosted.com/MT/about.html">
+                  <p>
+                    The same materials, the same love, the same simplicity,
+                    these marks added after centuries or thousand of years
+                    revive the object, transform it, continue it, and begin its
+                    new life.
+                  </p>
+                  <nuxt-link to="/about">
                     <v-btn class="ma-2" outlined>Learn more</v-btn>
-                  </a>
+                  </nuxt-link>
                 </div>
               </div>
 
@@ -79,9 +86,7 @@
                       viewBox="0 0 448 512"
                       class="svg-inline--fa fa-chevron-down fa-w-14"
                       data-v-2a183b29
-                      style="
-    font-size: 3rem;
-"
+                      style="font-size: 3rem"
                     >
                       <path
                         fill="currentColor"
@@ -109,10 +114,13 @@
                 </h1>
               </div>
               <div class="box--text">
-                <p>This vigorous and unyielding expression reconnects us to our past.</p>
-                <a href="https://animated-garbanzo.a2hosted.com/MT/gallery.html">
+                <p>
+                  This vigorous and unyielding expression reconnects us to our
+                  past.
+                </p>
+                <nuxt-link to="/gallery">
                   <v-btn class="ma-2" outlined>View the gallery</v-btn>
-                </a>
+                </nuxt-link>
               </div>
               <div class="box--link">
                 <div class="box--arrow">
@@ -127,9 +135,7 @@
                       viewBox="0 0 448 512"
                       class="svg-inline--fa fa-chevron-down fa-w-14"
                       data-v-2a183b29
-                      style="
-    font-size: 3rem;
-"
+                      style="font-size: 3rem"
                     >
                       <path
                         fill="currentColor"
@@ -158,31 +164,44 @@
               </div>
               <div class="box--text box--text_contact">
                 <p>
-                  Each mosaic is created through consultation between artist and client so that the needs and the wants of the client can be expressed in each creation.
-                  If you would like a free estimate, or would like to discuss the design and purchase of a mosaic, please contact the artist using one of the following methods.
+                  Each mosaic is created through consultation between artist and
+                  client so that the needs and the wants of the client can be
+                  expressed in each creation. If you would like a free estimate,
+                  or would like to discuss the design and purchase of a mosaic,
+                  please contact the artist using one of the following methods.
                   <br />
-                  <br />Jean-Piere speaks fluent English and French.
-                  His creations are sold all over the world.
+                  <br />Jean-Piere speaks fluent English and French. His
+                  creations are sold all over the world.
                 </p>
                 <ul class="contact--links">
                   <li>
                     <a href="http://fb.me/mosaiquetahlaos" target="_blank">
-                      <font-awesome-icon :icon="['fab', 'facebook-square']" />facebook
+                      <font-awesome-icon
+                        :icon="['fab', 'facebook-square']"
+                      />facebook
                     </a>
                   </li>
                   <li>
                     <a href="mailto:soalhat.jp@gmail.com" target="_blank">
-                      <font-awesome-icon :icon="['fas', 'at']" />soalhat.jp@gmail.com
+                      <font-awesome-icon
+                        :icon="['fas', 'at']"
+                      />soalhat.jp@gmail.com
                     </a>
                   </li>
                   <li>
                     <a href="tel:+33490751171" target="_blank">
-                      <font-awesome-icon :icon="['fas', 'phone-square-alt']" />+33 (0)4 90 75 11 71
+                      <font-awesome-icon
+                        :icon="['fas', 'phone-square-alt']"
+                      />+33 (0)4 90 75 11 71
                     </a>
                   </li>
                   <li>
-                    <a href="https://goo.gl/maps/h5FbVrEtevupHR646" target="_blank">
-                      <font-awesome-icon :icon="['fas', 'globe-europe']" />84750 Caseneuve, France
+                    <a
+                      href="https://goo.gl/maps/h5FbVrEtevupHR646"
+                      target="_blank"
+                    >
+                      <font-awesome-icon :icon="['fas', 'globe-europe']" />84750
+                      Caseneuve, France
                     </a>
                   </li>
                 </ul>
@@ -225,9 +244,9 @@ import NavigationWhite from "~/components/NavigationWhite.vue";
 
 export default {
   components: {
-    NavigationWhite
+    NavigationWhite,
   },
-  transition: "intro"
+  transition: "intro",
 };
 </script>
 
