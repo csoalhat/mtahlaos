@@ -94,4 +94,8 @@ export default {
      */
     extend(config, ctx) {}
   }
+  target: 'static',
+  router: {
+    base: '/mtahlaos/'
+  }
 };
