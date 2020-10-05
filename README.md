@@ -1,7 +1,5 @@
 # mosaiquetahlaos
 
-> My prime Nuxt.js project
-
 ## Build Setup
 
 ``` bash
