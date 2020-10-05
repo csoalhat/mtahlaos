@@ -53,12 +53,12 @@
       </ul>
     </div>
     <div class="navigation--logo">
-      <a href="https://animated-garbanzo.a2hosted.com/MT/index.html">
+      <nuxt-link to="/">
         <img
           src="https://animated-garbanzo.a2hosted.com/MT/assets/small-logo-white.png"
           alt="logo"
         />
-      </a>
+      </nuxt-link>
     </div>
   </nav>
 </template>
