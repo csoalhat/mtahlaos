@@ -55,7 +55,7 @@
     <div class="navigation--logo">
       <nuxt-link to="/">
         <img
-          src="https://animated-garbanzo.a2hosted.com/MT/assets/small-logo-black.png"
+          src="https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldx/small-logo-black.png"
           alt="logo"
         />
       </nuxt-link>
