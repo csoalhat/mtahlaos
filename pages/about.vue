@@ -238,7 +238,7 @@ body {
         }
 
         .img-1 {
-          background-image: url(https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldx/mosaique-tahlaos-img-1.jpg);
+          background-image: url(https://mosaiquetahlaos.s3.eu-north-1.amazonaws.com/mosaique-tahlaos-img-1.jpg);
           background-position: right;
 
           @media screen and (max-width: 959px) {
@@ -247,7 +247,7 @@ body {
         }
 
         .img-2 {
-          background-image: url(https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldx/mosaique-tahlaos-img-2.jpg);
+          background-image: url(https://mosaiquetahlaos.s3.eu-north-1.amazonaws.com/mosaique-tahlaos-img-2.jpg);
           background-position: bottom;
           @media screen and (max-width: 959px) {
             background-position: center;
@@ -256,7 +256,7 @@ body {
         }
 
         .img-3 {
-          background-image: url(https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldx/mosaique-tahlaos-img-3.jpg);
+          background-image: url(https://mosaiquetahlaos.s3.eu-north-1.amazonaws.com/mosaique-tahlaos-img-3.jpg);
           background-position: bottom;
           @media screen and (max-width: 959px) {
             background-position: center;
@@ -266,7 +266,7 @@ body {
         }
 
         .img-4 {
-          background-image: url(https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldx/mosaique-tahlaos-img-4.jpg);
+          background-image: url(https://mosaiquetahlaos.s3.eu-north-1.amazonaws.com/mosaique-tahlaos-img-4.jpg);
           background-position: bottom;
           @media screen and (max-width: 959px) {
             background-position: center;
@@ -276,7 +276,7 @@ body {
         }
 
         .img-5 {
-          background-image: url(https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldx/mosaique-tahlaos-img-5.jpg);
+          background-image: url(https://mosaiquetahlaos.s3.eu-north-1.amazonaws.com/mosaique-tahlaos-img-5.jpg);
           background-position: right;
           @media screen and (max-width: 959px) {
             background-position: center;

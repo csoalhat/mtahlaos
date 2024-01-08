@@ -8,7 +8,7 @@
             <div class="main--box box">
               <div class="box--header">
                 <img
-                  src="https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldx/logo-white@2x.png"
+                  src="https://mosaiquetahlaos.s3.eu-north-1.amazonaws.com/logo-white@2x.png"
                   alt="logo"
                 />
               </div>
@@ -272,7 +272,7 @@ body {
     overflow: hidden;
 
     &--1 {
-      background: url("https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldx/mosaique-tahlaos-1.jpg");
+      background: url("https://mosaiquetahlaos.s3.eu-north-1.amazonaws.com/mosaique-tahlaos-1.jpg");
       background-size: cover;
 
       @media screen and (max-width: 950px) {
@@ -281,14 +281,14 @@ body {
             rgba(34, 33, 26, 0.65),
             rgba(34, 33, 26, 0.45)
           ),
-          url(https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldx/mosaique-tahlaos-1.jpg);
+          url(https://mosaiquetahlaos.s3.eu-north-1.amazonaws.com/mosaique-tahlaos-1.jpg);
         background-size: cover;
         background-position: center;
       }
     }
 
     &--2 {
-      background: url("https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldx/mosaique-tahlaos-home-2.jpg");
+      background: url("https://mosaiquetahlaos.s3.eu-north-1.amazonaws.com/mosaique-tahlaos-home-2.jpg");
       background-size: cover;
 
       @media screen and (max-width: 950px) {
@@ -297,14 +297,14 @@ body {
             rgba(34, 33, 26, 0.65),
             rgba(34, 33, 26, 0.45)
           ),
-          url(https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldx/mosaique-tahlaos-home-2.jpg);
+          url(https://mosaiquetahlaos.s3.eu-north-1.amazonaws.com/mosaique-tahlaos-home-2.jpg);
         background-size: cover;
         background-position: center;
       }
     }
 
     &--3 {
-      background: url("https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldx/mosaique-tahlaos-home-3.jpg");
+      background: url("https://mosaiquetahlaos.s3.eu-north-1.amazonaws.com/mosaique-tahlaos-home-3.jpg");
       background-size: cover;
 
       @media screen and (max-width: 950px) {
@@ -313,14 +313,14 @@ body {
             rgba(34, 33, 26, 0.65),
             rgba(34, 33, 26, 0.45)
           ),
-          url(https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldx/mosaique-tahlaos-home-3.jpg);
+          url(https://mosaiquetahlaos.s3.eu-north-1.amazonaws.com/mosaique-tahlaos-home-3.jpg);
         background-size: cover;
         background-position: center;
       }
     }
 
     &--4 {
-      background: url("https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldx/mosaique-tahlaos-home-4.jpg");
+      background: url("https://mosaiquetahlaos.s3.eu-north-1.amazonaws.com/mosaique-tahlaos-home-4.jpg");
       background-size: cover;
 
       @media screen and (max-width: 950px) {
@@ -329,7 +329,7 @@ body {
             rgba(34, 33, 26, 0.65),
             rgba(34, 33, 26, 0.45)
           ),
-          url(https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldx/mosaique-tahlaos-home-4.jpg);
+          url(https://mosaiquetahlaos.s3.eu-north-1.amazonaws.com/mosaique-tahlaos-home-4.jpg);
         background-size: cover;
         background-position: center;
       }
