@@ -178,131 +178,131 @@ body {
 }
 
 .gallery-1 {
-  background-image: url(https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldx/mosaique-tahlaos-gallery-1.jpg);
+  background-image: url(https://mosaiquetahlaos.s3.eu-north-1.amazonaws.com/mosaique-tahlaos-gallery-1.jpg);
   background-position: center;
 }
 
 .gallery-2 {
-  background-image: url(https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldx/mosaique-tahlaos-gallery-2.jpg);
+  background-image: url(https://mosaiquetahlaos.s3.eu-north-1.amazonaws.com/mosaique-tahlaos-gallery-2.jpg);
   background-position: center;
 }
 
 .gallery-3 {
-  background-image: url(https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldx/mosaique-tahlaos-gallery-3.jpg);
+  background-image: url(https://mosaiquetahlaos.s3.eu-north-1.amazonaws.com/mosaique-tahlaos-gallery-3.jpg);
   background-position: center;
 }
 
 .gallery-4 {
-  background-image: url(https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldx/mosaique-tahlaos-gallery-4.jpg);
+  background-image: url(https://mosaiquetahlaos.s3.eu-north-1.amazonaws.com/mosaique-tahlaos-gallery-4.jpg);
   background-position: center;
 }
 .gallery-5 {
-  background-image: url(https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldx/mosaique-tahlaos-gallery-5.jpg);
+  background-image: url(https://mosaiquetahlaos.s3.eu-north-1.amazonaws.com/mosaique-tahlaos-gallery-5.jpg);
   width: 100%;
   height: auto;
   background-position: center;
 }
 .gallery-6 {
-  background-image: url(https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldx/mosaique-tahlaos-gallery-6.jpg);
+  background-image: url(https://mosaiquetahlaos.s3.eu-north-1.amazonaws.com/mosaique-tahlaos-gallery-6.jpg);
   width: 100%;
   height: auto;
   background-position: center;
 }
 .gallery-7 {
-  background-image: url(https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldx/mosaique-tahlaos-gallery-7.jpg);
+  background-image: url(https://mosaiquetahlaos.s3.eu-north-1.amazonaws.com/mosaique-tahlaos-gallery-7.jpg);
   width: 100%;
   height: auto;
   background-position: center;
 }
 .gallery-8 {
-  background-image: url(https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldxs/mosaique-tahlaos-gallery-8.jpg);
+  background-image: url(https://mosaiquetahlaos.s3.eu-north-1.amazonaws.coms/mosaique-tahlaos-gallery-8.jpg);
   background-position: bottom right;
   background-size: cover;
 }
 .gallery-9 {
-  background-image: url(https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldx/mosaique-tahlaos-gallery-9.jpg);
+  background-image: url(https://mosaiquetahlaos.s3.eu-north-1.amazonaws.com/mosaique-tahlaos-gallery-9.jpg);
   background-size: cover;
   background-position: center;
 }
 .gallery-10 {
-  background-image: url(https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldx/mosaique-tahlaos-gallery-10.jpg);
+  background-image: url(https://mosaiquetahlaos.s3.eu-north-1.amazonaws.com/mosaique-tahlaos-gallery-10.jpg);
   width: 100%;
   background-size: cover;
   margin: 0;
   background-position: center;
 }
 .gallery-11 {
-  background-image: url(https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldx/mosaique-tahlaos-gallery-11.jpg);
+  background-image: url(https://mosaiquetahlaos.s3.eu-north-1.amazonaws.com/mosaique-tahlaos-gallery-11.jpg);
   width: 100%;
   background-size: cover;
   margin: 0;
 }
 .gallery-12 {
-  background-image: url(https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldx/mosaique-tahlaos-gallery-12.jpg);
+  background-image: url(https://mosaiquetahlaos.s3.eu-north-1.amazonaws.com/mosaique-tahlaos-gallery-12.jpg);
   background-position: center;
   background-size: cover;
 }
 .gallery-13 {
-  background-image: url(https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldx/mosaique-tahlaos-gallery-13.jpg);
+  background-image: url(https://mosaiquetahlaos.s3.eu-north-1.amazonaws.com/mosaique-tahlaos-gallery-13.jpg);
   background-position: center;
 }
 .gallery-14 {
-  background-image: url(https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldx/mosaique-tahlaos-gallery-14.jpg);
+  background-image: url(https://mosaiquetahlaos.s3.eu-north-1.amazonaws.com/mosaique-tahlaos-gallery-14.jpg);
   height: 100%;
   background-size: cover;
 }
 .gallery-15 {
-  background-image: url(https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldx/mosaique-tahlaos-gallery-15.jpg);
+  background-image: url(https://mosaiquetahlaos.s3.eu-north-1.amazonaws.com/mosaique-tahlaos-gallery-15.jpg);
   width: 100%;
   height: auto;
   background-size: auto;
   background-position: center;
 }
 .gallery-16 {
-  background-image: url(https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldx/mosaique-tahlaos-gallery-16.jpg);
+  background-image: url(https://mosaiquetahlaos.s3.eu-north-1.amazonaws.com/mosaique-tahlaos-gallery-16.jpg);
   width: 100%;
   height: auto;
   background-position: center;
 }
 .gallery-17 {
-  background-image: url(https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldx/mosaique-tahlaos-gallery-17.jpg);
+  background-image: url(https://mosaiquetahlaos.s3.eu-north-1.amazonaws.com/mosaique-tahlaos-gallery-17.jpg);
   width: 100%;
   height: auto;
   background-position: center;
   background-size: auto;
 }
 .gallery-19 {
-  background-image: url(https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldx/mosaique-tahlaos-gallery-19.jpg);
+  background-image: url(https://mosaiquetahlaos.s3.eu-north-1.amazonaws.com/mosaique-tahlaos-gallery-19.jpg);
   width: 100%;
   height: auto;
   background-position: center;
 }
 .gallery-20 {
-  background-image: url(https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldx/mosaique-tahlaos-gallery-20.jpg);
+  background-image: url(https://mosaiquetahlaos.s3.eu-north-1.amazonaws.com/mosaique-tahlaos-gallery-20.jpg);
   width: 100%;
   height: auto;
   background-position: center;
 }
 
 .gallery-21 {
-  background-image: url(https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldx/mosaique-tahlaos-gallery-21.jpg);
+  background-image: url(https://mosaiquetahlaos.s3.eu-north-1.amazonaws.com/mosaique-tahlaos-gallery-21.jpg);
   width: 100%;
   height: auto;
   background-position: center;
 }
 .gallery-22 {
-  background-image: url(https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldx/mosaique-tahlaos-gallery-22.jpg);
+  background-image: url(https://mosaiquetahlaos.s3.eu-north-1.amazonaws.com/mosaique-tahlaos-gallery-22.jpg);
   width: 100%;
   height: auto;
   background-position: center;
 }
 .gallery-23 {
-  background-image: url(https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldx/mosaique-tahlaos-gallery-23.jpg);
+  background-image: url(https://mosaiquetahlaos.s3.eu-north-1.amazonaws.com/mosaique-tahlaos-gallery-23.jpg);
   background-position: center;
   background-size: cover;
 }
 .gallery-24 {
-  background-image: url(https://drive.google.com/drive/folders/1_ISzfpACiYPSjYq5GvNUEB4RCHuSFldx/mosaique-tahlaos-gallery-24.jpg);
+  background-image: url(https://mosaiquetahlaos.s3.eu-north-1.amazonaws.com/mosaique-tahlaos-gallery-24.jpg);
   background-position: center;
   background-size: cover;
 }
